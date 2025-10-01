@@ -2,9 +2,9 @@
 
 import { connect } from 'cloudflare:sockets'
 
-let yourUUID = '5dc15e15-f285-4a9d-959b-0e4fbdd77b63';  // UUID
+let yourUUID = 'ad6f2910-a669-4bf6-9b68-acec3e1639dd';  // UUID
 let proxyIP = 'ProxyIP.SG.CMLiussss.net';  // proxyIP  感谢CM大佬维护的proxyip
-let subPath = 'link';  // 订阅token,建议修改,默认不变将使用UUID作为订阅路径
+let subPath = 'ad6f2910-a669-4bf6-9b68-acec3e1639dd';  // 订阅token,建议修改,默认不变将使用UUID作为订阅路径
 
 let cfip = [ // cfip
     'ip.sb', 'time.is', 'skk.moe', 'www.visa.com.tw', 'www.visa.com.hk', 'www.visa.com.sg',
